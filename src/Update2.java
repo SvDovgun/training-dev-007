@@ -3,4 +3,8 @@
  */
 public class Update2 {
     // test Update2
+    public static void main(String[] args) {
+        // write your code here
+        System.out.println(" commit Update 2");
+    }
 }
