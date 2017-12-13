@@ -6,5 +6,6 @@ public class Update1 {
     public static void main(String[] args) {
         // write your code here
         System.out.println(" commit Update 1");
+        System.out.println(" commit Update 1 for bran2");
     }
 }
