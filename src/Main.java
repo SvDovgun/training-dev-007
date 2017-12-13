@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("4 commit");
 		
-		System.out.println("commit in  master");
+		System.out.println("commit update in  master");
+		
     }
 }
